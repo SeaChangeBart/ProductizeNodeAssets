@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MakeSomeFoldersFree.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="NodeGuids" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">a;b</Value>
+    </Setting>
+    <Setting Name="ProductGuids" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">c;d</Value>
+    </Setting>
+    <Setting Name="Prodis2bToken" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Prodis2bUri" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CatalogCode" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">TVOD</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
